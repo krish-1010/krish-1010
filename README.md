@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Krishna—a full stack developer, technical mentor, and guest speaker passionate about building real-world solutions in web, AI, and automation.<br><br>
+I'm Krishna, a full stack developer, technical mentor, and guest speaker passionate about building real-world solutions in web, AI, and automation.<br><br>
 - Built platforms and tools for universities, businesses, and global STEM competitions.<br>
 - Developed the AI-powered webfolio and chatbot for Anna University MBA, making HR and student engagement smarter.<br>
 - Created no-code ML APIs, automation tools, dynamic board games, AR product demos, and more.<br>
