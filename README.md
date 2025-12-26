@@ -5,7 +5,7 @@ I'm Krishna, a full stack developer, technical mentor, and guest speaker passion
 - Created no-code ML APIs, automation tools, dynamic board games, AR product demos, and more.<br>
 - Led tech teams as SDE Lead at Space Kidz India (global STEM/space) and CTO at Sharanya Spots Talent.<br>
 - Guest lecturer and event speaker at Anna University, IIT Madras, DG Vaishnav, and Bioconclave’23.<br>
-- Mentored 70+ students and professionals—helped 50+ get placed in top tech companies.<br>
+- Mentored 70+ students and professionals, helped 50+ get placed in top tech companies.<br>
 - Co-researched brainwave ML for healthcare, funded by Loyola College.<br>
 - Speaker, judge, and mentor at innovation and education events across India.<br>
 <br>
@@ -49,11 +49,11 @@ See my work and portfolio at [mkrishna.dev](https://mkrishna.dev)<br>
 ![](https://github-profile-trophy.vercel.app/?username=krish-1010&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 📌 Featured Projects
-- [Nexus Webfolio with AI Chatbot](https://domsauconnect.com/) — Anna Univ MBA, HR help
-- [Gasgo Microservice API](https://github.com/krish-1010/springboot-gasgo) — Modular Java/Spring Boot backend
-- [ReviseIt](https://reviseit.vercel.app/) — Audio-based study platform
-- [Veloit AI](https://www.linkedin.com/company/veloit-ai/) — No-code ML APIs
-- [Space Board Game](https://github.com/krish-1010/dynamic-board-game) — Animated Next.js game
+- [Nexus Webfolio with AI Chatbot](https://domsauconnect.com/) ,  Anna Univ MBA, HR help
+- [Gasgo Microservice API](https://github.com/krish-1010/springboot-gasgo) ,  Modular Java/Spring Boot backend
+- [ReviseIt](https://reviseit.vercel.app/) ,  Audio-based study platform
+- [Veloit AI](https://www.linkedin.com/company/veloit-ai/) ,  No-code ML APIs
+- [Space Board Game](https://github.com/krish-1010/dynamic-board-game) ,  Animated Next.js game
 - More at [mkrishna.dev/projects](https://mkrishna.dev/#projects)
 
 ### ✍️ Random Dev Quote
